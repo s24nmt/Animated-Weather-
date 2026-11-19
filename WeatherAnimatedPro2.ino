@@ -13,8 +13,8 @@
 #include <math.h>
 
 // ================= DEFAULT USER CONFIGURATION =================
-String wifiSSID = "EXT2.4";
-String wifiPass = "LAXMI1234";
+String wifiSSID = "SSID";
+String wifiPass = "Password";
 String cityName = "NEW DELHI";
 float latitude = 28.6139;
 float longitude = 77.2090;
