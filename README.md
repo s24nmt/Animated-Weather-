@@ -4,6 +4,7 @@ This Arduino sketch implements a Wi-Fi-connected smart clock and 7-day weather s
 # beautiful mobile optimized web ui to config, 
 to access ip-Address & barcode, press & hold middle button for 2 sec.
 
-# paste the official Espressif index link and click OK:   Plaintexthttps://espressif.github.io/arduino-esp32/package_esp32_index.json
+# paste the official Espressif index link and click OK: 
+Plaintexthttps://espressif.github.io/arduino-esp32/package_esp32_index.json
 
-# Edit SSID & Password
+# Must Edit SSID & Password
